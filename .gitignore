@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Solution/RoadNet/RoadNet.Common.Geometry/bin/Debug
+/Solution/RoadNet/RoadNet.Common.Geometry/obj/Debug
+/Solution/RoadNet/.vs
+*.user
